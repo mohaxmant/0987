@@ -1,0 +1,26 @@
+body {
+    font-style: italic;
+}
+header{
+    background-color: blue;
+}
+main{
+    background-color: gold;
+}
+footer{
+    background-color: gold;
+}
+h1{
+   
+  text-shadow: 3px 4px 5px rgb(43, 255, 0);
+
+}
+
+ul{
+    font-size: 25px;
+    
+  text-shadow: 3px 4px 5px rgb(9, 255, 0)
+}
+.tip:hover{
+
+}
